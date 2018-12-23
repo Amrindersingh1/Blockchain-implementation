@@ -2,7 +2,7 @@
 
 This is Private Blockchain, in this project I created the classes to manage my private blockchain, to be able to persist my blochchain I used LevelDB.
 
-## Setup project for Review.
+## Setup project :
 
 To setup the project for review do the following:
 1. Download the project.
